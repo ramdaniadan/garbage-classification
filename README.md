@@ -63,7 +63,7 @@ The dataset is split as follows:
 📬 Contact
 
 Have questions or feedback? Feel free to reach out:
-- **Email**: ramdaniadan1212@gmail.com
+- **Email**: ramdaniadan.career@gmail.com
 - **GitHub**: [https://github.com/ramdaniadan](https://github.com/ramdaniadan/)
 
 ---
